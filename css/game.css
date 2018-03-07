@@ -3,7 +3,7 @@
                  table-layout: fixed;
                  border-spacing: 0;   }
 .background td { padding: 0;          }
-.lava          { background: rgb(255, 100, 100); }
+.lava          { background: #708090; }
 .wall          { background: lightpink;   }
 .floater       { background: #fdfd96;  }
 
