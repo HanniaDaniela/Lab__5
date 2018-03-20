@@ -5,8 +5,14 @@
 .background td { padding: 0;          }
 .lava          { background: #708090; }
 .wall          { background: lightpink;   }
-.floater       { background: #fdfd96;  }
+.floater       { background: #fdfd96; }
+
+.actor  { position: absolute;  }
+.player { background: #c2b0e5; }
 
 .game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
   position: relative;
 }
